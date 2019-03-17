@@ -1,0 +1,15 @@
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\bin\Debug\netcoreapp2.1\SmartHome.API.deps.json
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\bin\Debug\netcoreapp2.1\SmartHome.API.runtimeconfig.json
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\bin\Debug\netcoreapp2.1\SmartHome.API.runtimeconfig.dev.json
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\bin\Debug\netcoreapp2.1\SmartHome.API.dll
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\bin\Debug\netcoreapp2.1\SmartHome.API.pdb
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.csprojAssemblyReference.cache
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.csproj.CoreCompileInputs.cache
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.RazorAssemblyInfo.cache
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.RazorAssemblyInfo.cs
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.AssemblyInfoInputs.cache
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.AssemblyInfo.cs
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.RazorTargetAssemblyInfo.cache
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.dll
+E:\CLIENTS\NitishBirje\API\SmartHome.API\SmartHome.API\obj\Debug\netcoreapp2.1\SmartHome.API.pdb

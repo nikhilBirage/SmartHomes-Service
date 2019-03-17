@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"SmartHomeContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"SmartHome.API","SelectedToBeGenerated":0,"Tables":["dbo.meterReading","dbo.meterUser","dbo.recharge","dbo.user"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
